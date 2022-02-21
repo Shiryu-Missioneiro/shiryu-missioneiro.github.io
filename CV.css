@@ -1,0 +1,139 @@
+body {
+    background-color: lightblue;
+}
+h3{
+    font-family: Calibri;
+}
+.principal{
+    background-color: white;
+    margin: 0 300px 0 300px;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 70%;
+}
+.lado_esquerdo{
+    background-color: #bd0808;
+}
+.foto_perfil{
+    margin: 50px 50% 50px 30%;
+    border-radius: 30%;
+}
+.contato{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+.bloco_informação{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;   
+    align-items: center;
+}
+.material-icons.icone_branco{
+    color: white;
+}
+.descrição{
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    font-family: Calibri;
+    margin-left: 16px;
+}
+.habilidades{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+.idiomas{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+}
+.lado_direito{
+   
+}
+.nome{
+    color: #bd0808;
+    font-family: Calibri;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 5%;
+}
+.hr{
+    color: #bd0808;
+}
+.ocupação{
+    color: #bd0808;
+    font-family: Calibri;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 10px 5%;
+}
+.resumo{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+.resumo_informação{
+    font-family: Calibri;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+.formação_acadêmica{
+    color: #bd0808;
+    font-family: Calibri;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 5%;
+}
+.universidade{
+    color: black;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 14;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+.texto{
+    color: black;
+    font-family: Calibri;
+    font-size: 11;
+    text-align: left;
+    margin-top: 10px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.experiência{
+    color: #bd0808;
+    font-family: Calibri;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 5%;
+}
+.cargo{
+    color: black;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 14;
+    text-align: left;
+    margin-top: 10px;
+    margin-right: 5%;
+    margin-left: 5%;
+
+}
