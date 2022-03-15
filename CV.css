@@ -7,7 +7,7 @@ h3{
 .principal{
     background-color: white;
     margin: 0 300px 0 300px;
-    height: auto;
+    min-height: 100vh;
     display: grid;
     grid-template-columns: 1fr 70%;
 }
@@ -51,13 +51,11 @@ h3{
     text-align: center;
     text-transform: uppercase;
 }
-}
-.lado_direito{
-   
-}
+
 .nome{
     color: #bd0808;
     font-family: Calibri;
+    font-size: 30px;
     font-weight: bolder;
     text-transform: uppercase;
     text-align: left;
@@ -69,6 +67,7 @@ h3{
 .ocupação{
     color: #bd0808;
     font-family: Calibri;
+    font-size: 20px;
     font-weight: bolder;
     text-transform: uppercase;
     text-align: left;
