@@ -4,9 +4,16 @@ body {
 h3{
     font-family: Calibri;
 }
+
+@media (min-width: 768px){
+    .principal {
+        display: grid;
+        grid-template-columns: 1fr 200px;
+        grid-template-rows: 1fr 200px;
+    }
+}
 .principal{
     background-color: white;
-    margin: 0 300px 0 300px;
     min-height: 100vh;
     display: grid;
     grid-template-columns: 1fr 70%;
