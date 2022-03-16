@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: white;
 }
 h3{
     font-family: Calibri;
@@ -22,21 +22,22 @@ h3{
     background-color: #bd0808;
 }
 .foto_perfil{
-    margin: 50px 50% 50px 30%;
+    margin: 25px 50px 25px 25%;
     border-radius: 30%;
 }
 .contato{
     color: white;
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 .bloco_informação{
     display: flex;
     flex-direction: row;
-    margin-left: 60px;
+    margin-left: 15px;
     margin-bottom: 16px;
     width: 100%;   
-    align-items: center;
+    align-items: left;
 }
 .material-icons.icone_branco{
     color: white;
@@ -52,11 +53,13 @@ h3{
     color: white;
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 .idiomas{
     color: white;
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .nome{
@@ -84,6 +87,7 @@ h3{
     color: white;
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 .resumo_informação{
     font-family: Calibri;
